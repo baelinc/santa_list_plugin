@@ -1,0 +1,14 @@
+{
+    "name": "Santa's Naughty & Nice List Display",
+    "version": "2.0.0",
+    "description": "Polls WordPress for children's names and displays them on FPP Pixel Overlay Models mapped to ColorLight LED panels, with PiHat pixel outline effects.",
+    "author": "Johnathan Evans",
+    "homepage": "",
+    "minFPPVersion": "9.0",
+    "pythonVersion": "3",
+    "mainScript": "santa_list_plugin.py",
+    "configPage": "santa_list_ui.php",
+    "startupArgs": [],
+    "stopTimeout": 5,
+    "restartOnChange": true
+}
