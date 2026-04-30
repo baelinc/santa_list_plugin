@@ -10,7 +10,7 @@
   "versions": [
   {
     "minFPPVersion": "8.0",
-    "maxFPPVersion": "20.0",
+    "maxFPPVersion": "0",
     "branch": "main",
     "sha": "",
     "dependencies": {
@@ -20,3 +20,4 @@
     }
   }
 ]
+}
