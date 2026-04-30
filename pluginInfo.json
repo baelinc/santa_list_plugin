@@ -8,16 +8,15 @@
   "bugURL": "https://github.com/baelinc/santa_list_plugin/issues",
   "allowUpdates": 1,
   "versions": [
-    {
-      "minFPPVersion": "9.0",
-      "maxFPPVersion": "0", 
-      "branch": "main",
-      "sha": "",
-      "dependencies": {
-        "plugins": [],
-        "packages": [],
-        "scripts": []
-      }
+  {
+    "minFPPVersion": "8.0",
+    "maxFPPVersion": "20.0",
+    "branch": "main",
+    "sha": "",
+    "dependencies": {
+      "plugins": [],
+      "packages": [],
+      "scripts": []
     }
-  ]
-}
+  }
+]
