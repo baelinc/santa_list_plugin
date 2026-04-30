@@ -1,23 +1,35 @@
 {
-  "name": "santa_list_plugin",
-  "displayName": "Santa's Naughty & Nice List Display",
-  "author": "Johnathan Evans",
-  "description": "Polls a WordPress site for children's names and displays them on FPP Pixel Overlay Models.",
-  "homeURL": "https://github.com/baelinc/santa_list_plugin",
-  "srcURL": "https://github.com/baelinc/santa_list_plugin.git",
-  "bugURL": "https://github.com/baelinc/santa_list_plugin/issues",
-  "allowUpdates": 1,
-  "versions": [
-  {
-    "minFPPVersion": "8.0",
-    "maxFPPVersion": "0",
-    "branch": "main",
-    "sha": "",
-    "dependencies": {
-      "plugins": [],
-      "packages": [],
-      "scripts": []
-    }
-  }
-]
+	"repoName": "santa_list_plugin",
+	"name": "Santa's Naughty & Nice List Display",
+	"author": "Johnathan Evans",
+	"description": "Polls a WordPress site for children's names and displays them on FPP Pixel Overlay Models.",
+	"homeURL": "https://github.com/baelinc/santa_list_plugin",
+	"srcURL": "https://github.com/baelinc/santa_list_plugin.git",
+	"bugURL": "https://github.com/baelinc/santa_list_plugin/issues",
+	"versions": [
+		{
+			"minFPPVersion": "8.0",
+			"maxFPPVersion": "8.99",
+			"sha": "27f3c82438fdc2f19a54d2f7c9cadfa590031622",
+			"branch": "master"
+		},
+		{
+			"minFPPVersion": "9.0",
+			"maxFPPVersion": "9.1",
+			"sha": "27f3c82438fdc2f19a54d2f7c9cadfa590031622",
+			"branch": "master"
+		},
+		{
+			"minFPPVersion": "9.2",
+			"maxFPPVersion": "0",
+			"branch": "master",
+			"sha": ""
+		},
+		{
+			"minFPPVersion": "10.0",
+			"maxFPPVersion": "0",
+			"branch": "master",
+			"sha": ""
+		}
+	]
 }
